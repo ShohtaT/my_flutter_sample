@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987810951456",
+    "project_id": "book-list-sample-eb7ab",
+    "storage_bucket": "book-list-sample-eb7ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987810951456:android:54563a3bdd51b8d4b2a745",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_sample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsxg_jWroG7rUdezZIBv8wHBhSOSaiCy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
